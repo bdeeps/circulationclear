@@ -1,0 +1,938 @@
+{
+  "title": "The history of the circulation",
+  "tagline": "From Galen's one-way blood to blood banks, cuffs and clot science: 1,800 years of finding the loop.",
+  "intro": "For well over a thousand years, doctors believed blood was made in the liver and used up by the body. It took a Cairo physician, an English doctor with a stopwatch mind and an Italian with a microscope to show it goes round in a loop. Then people learned to measure its pressure, explain what leaks out at the capillaries, and share blood safely between strangers.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "One-way blood",
+      "from": 150,
+      "to": 1300,
+      "color": "#c49bff",
+      "summary": "Galen's liver-made blood rules for centuries, until Ibn al-Nafis sends it through the lungs."
+    },
+    {
+      "id": "circle",
+      "name": "Closing the circle",
+      "from": 1500,
+      "to": 1700,
+      "color": "#ff6b9a",
+      "summary": "The lung loop, Harvey's circulation, the lymphatics, capillaries and red cells."
+    },
+    {
+      "id": "measure",
+      "name": "Measuring the flow",
+      "from": 1700,
+      "to": 1910,
+      "color": "#ffd166",
+      "summary": "Pressure in a horse, the fourth-power law, platelets, Starling forces and the cuff."
+    },
+    {
+      "id": "share",
+      "name": "Blood you can share",
+      "from": 1818,
+      "to": 1945,
+      "color": "#ff8a5c",
+      "summary": "Transfusion, blood groups, citrate and the first blood banks, in India too."
+    },
+    {
+      "id": "inside",
+      "name": "Seeing inside the vessels",
+      "from": 1925,
+      "to": 1965,
+      "color": "#8ef0ff",
+      "summary": "Angiograms, catheters, baroreceptors and the clotting cascade."
+    },
+    {
+      "id": "india",
+      "name": "Safe blood and healthy pressure",
+      "from": 1975,
+      "to": 2025,
+      "color": "#6ee7a8",
+      "summary": "Voluntary donation, a court ruling, online blood banks and counting hypertension."
+    }
+  ],
+  "events": [
+    {
+      "year": 170,
+      "date": "2nd century CE",
+      "era": "ancient",
+      "art": "word",
+      "title": "Blood made in the liver, used up in the body",
+      "who": "Galen of Pergamon",
+      "where": "Pergamon and Rome",
+      "country": "Turkey / Italy",
+      "text": "Galen, a Greek doctor in the Roman Empire, taught that the liver makes blood from food and the veins carry it out to be used up. He thought blood seeped from the right side of the heart to the left through tiny invisible pores. His books were followed for well over a thousand years.",
+      "why": "It was a one-way model, not a loop, and it took centuries to overturn.",
+      "box": "anatomy",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1242,
+      "date": "c. 1242 (usual dating)",
+      "era": "ancient",
+      "art": "lungs",
+      "key": true,
+      "title": "Blood goes through the lungs",
+      "who": "Ibn al-Nafis",
+      "where": "Cairo, Egypt",
+      "country": "Egypt",
+      "text": "In a commentary on Avicenna's Canon, the Damascus-born doctor Ibn al-Nafis said there are no pores in the heart's middle wall. Blood from the right side must travel through the lungs, mix with air, and return to the left side. Europe only learned of his work in the 20th century.",
+      "why": "It is the first known correct description of the pulmonary loop.",
+      "box": "loops",
+      "sources": [
+        1,
+        2
+      ]
+    },
+    {
+      "year": 1553,
+      "date": "1553",
+      "era": "circle",
+      "art": "scroll",
+      "title": "A lung loop hidden in a banned book",
+      "who": "Michael Servetus",
+      "where": "Vienne, France",
+      "country": "France",
+      "text": "Servetus, a Spanish doctor and theologian, described blood passing through the lungs inside a book about religion. His ideas were judged heresy, and he and nearly every copy of the book were burned in Geneva in 1553. Only a few copies survived.",
+      "why": "The lung loop was found again in Europe, and almost lost again.",
+      "box": "loops",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1628,
+      "date": "1628",
+      "era": "circle",
+      "art": "heart",
+      "key": true,
+      "title": "Blood goes round and round",
+      "who": "William Harvey",
+      "where": "London, England (printed in Frankfurt)",
+      "country": "United Kingdom",
+      "text": "Harvey published De Motu Cordis, On the Motion of the Heart and Blood. With experiments and simple sums he showed the heart pumps far more blood in an hour than the body could make from food. So the same blood must go out in the arteries and come back in the veins, in a circle.",
+      "why": "It is the moment circulation was born.",
+      "box": "loops",
+      "sources": [
+        4,
+        5
+      ]
+    },
+    {
+      "year": 1653,
+      "date": "1651–1653",
+      "era": "circle",
+      "art": "vessels",
+      "title": "A second set of pipes: the lymphatics",
+      "who": "Jean Pecquet, Olof Rudbeck and Thomas Bartholin",
+      "where": "Paris, Uppsala and Copenhagen",
+      "country": "France / Sweden / Denmark",
+      "text": "Pecquet found the thoracic duct emptying into the veins in 1651. The young Swede Rudbeck showed lymph vessels all over the body in 1652, and the Dane Bartholin published first, in 1653, and named them lymphatics. A famous quarrel over who came first followed.",
+      "why": "It showed that fluid leaking from the blood has its own way back.",
+      "box": "anatomy",
+      "sources": [
+        6,
+        7
+      ]
+    },
+    {
+      "year": 1661,
+      "date": "1661",
+      "era": "circle",
+      "art": "lens",
+      "key": true,
+      "title": "The missing link: capillaries",
+      "who": "Marcello Malpighi",
+      "where": "Bologna, Italy",
+      "country": "Italy",
+      "text": "Harvey could not see how blood got from arteries to veins. Malpighi looked at a frog's thin lung through an early microscope and saw tiny vessels joining the two. He described them in De pulmonibus in 1661.",
+      "why": "It closed the last gap in Harvey's circle.",
+      "box": "exchange",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1674,
+      "date": "1674",
+      "era": "circle",
+      "art": "cell",
+      "title": "Round red globules in the blood",
+      "who": "Antoni van Leeuwenhoek",
+      "where": "Delft, Netherlands",
+      "country": "Netherlands",
+      "text": "Using his own tiny, powerful lenses, the Delft cloth merchant van Leeuwenhoek described his blood as small round globules floating in a clear liquid, and later measured them. Jan Swammerdam had probably seen red cells in frog blood earlier, but his notes were only printed decades after his death.",
+      "why": "Blood turned out to be a liquid full of cells, not a simple fluid.",
+      "box": "blood",
+      "sources": [
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1733,
+      "date": "Experiment c. 1710; published 1733",
+      "era": "measure",
+      "art": "horse",
+      "key": true,
+      "title": "Blood pressure, measured on a horse",
+      "who": "Stephen Hales",
+      "where": "Teddington, England",
+      "country": "United Kingdom",
+      "text": "Hales, a vicar and scientist, tied a glass tube about 9 feet long into an artery of a mare. The blood rose about 8 feet 3 inches up the tube and bobbed with every heartbeat. He described it in his book Haemastaticks in 1733.",
+      "why": "It was the first measurement of blood pressure.",
+      "box": "pressure",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1770,
+      "date": "1770",
+      "era": "measure",
+      "art": "flask",
+      "title": "Clotting comes from the plasma",
+      "who": "William Hewson",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Hewson, a surgeon and anatomist, showed the Royal Society that blood clots because of a substance in its liquid part, not because the cells stick together. He also studied the lymph vessels and the shape of red cells.",
+      "why": "He found the idea behind fibrin, and is often called the father of haematology.",
+      "box": "blood",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1818,
+      "date": "26 September 1818; first success 1825",
+      "era": "share",
+      "art": "waterdrop",
+      "title": "Blood from one person into another",
+      "who": "James Blundell",
+      "where": "Guy's Hospital, London, England",
+      "country": "United Kingdom",
+      "text": "The obstetrician Blundell, desperate to save women bleeding after childbirth, gave the first human-to-human blood transfusion in 1818. That patient died, but in 1825 a mother bleeding after birth recovered. Nobody yet knew why some transfusions went badly wrong.",
+      "why": "It started the long road to safe transfusion.",
+      "box": "blood",
+      "sources": [
+        15,
+        16
+      ]
+    },
+    {
+      "year": 1840,
+      "date": "1840–1846",
+      "era": "measure",
+      "art": "tap",
+      "key": true,
+      "title": "Narrow tubes and the fourth power",
+      "who": "Jean Léonard Marie Poiseuille",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Poiseuille, a doctor who had already measured blood pressure with a mercury gauge, timed water flowing through fine glass tubes. He found the flow depends on the radius to the fourth power: halve the width and only a sixteenth gets through. Gotthilf Hagen found the same rule in Germany in 1839.",
+      "why": "It explains why tiny arterioles control where your blood goes.",
+      "box": "pressure",
+      "sources": [
+        17,
+        18
+      ]
+    },
+    {
+      "year": 1882,
+      "date": "1882",
+      "era": "measure",
+      "art": "cell",
+      "title": "Platelets get a name and a job",
+      "who": "Giulio Bizzozero",
+      "where": "Turin, Italy",
+      "country": "Italy",
+      "text": "Bizzozero showed that tiny discs in blood, which others thought were broken cells or even germs, are a separate part of blood. In living animals they were the first to stick to a damaged vessel wall and they started clots.",
+      "why": "Platelets are the first responders to every cut.",
+      "box": "blood",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "1896",
+      "era": "measure",
+      "art": "membrane",
+      "key": true,
+      "title": "The push and pull at the capillaries",
+      "who": "Ernest Starling",
+      "where": "University College London, England",
+      "country": "United Kingdom",
+      "text": "Starling showed that blood pressure pushes fluid out of capillaries while the proteins in plasma pull it back by osmosis. The balance of these Starling forces decides whether tissues stay just moist or swell.",
+      "why": "It explains swelling (oedema) and why the lymph is needed.",
+      "box": "exchange",
+      "sources": [
+        21
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "1896",
+      "era": "measure",
+      "art": "person",
+      "title": "The blood pressure cuff",
+      "who": "Scipione Riva-Rocci",
+      "where": "Turin, Italy",
+      "country": "Italy",
+      "text": "Riva-Rocci wrapped an inflatable cuff around the upper arm and read the pressure on a column of mercury. When the pulse at the wrist vanished, the cuff pressure matched the top blood pressure.",
+      "why": "Blood pressure could now be measured safely on anyone, without cutting an artery.",
+      "box": "pressure",
+      "sources": [
+        22
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901",
+      "era": "share",
+      "art": "antibody",
+      "key": true,
+      "title": "Blood comes in groups",
+      "who": "Karl Landsteiner",
+      "where": "Vienna, Austria",
+      "country": "Austria",
+      "text": "Landsteiner mixed the blood of his colleagues and saw that some combinations clumped. He sorted people into groups now called A, B and O; AB was found a year later. In 1940 he and Alexander Wiener described the Rh factor.",
+      "why": "Matching blood groups made transfusion safe; he won the 1930 Nobel Prize.",
+      "box": "blood",
+      "sources": [
+        23,
+        24
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "8 November 1905",
+      "era": "measure",
+      "art": "soundwave",
+      "title": "Listening for blood pressure",
+      "who": "Nikolai Korotkoff",
+      "where": "St Petersburg, Russia",
+      "country": "Russia",
+      "text": "Korotkoff, a young army surgeon, put a stethoscope below a pressure cuff and let the air out slowly. Tapping sounds started and then stopped, marking the top and bottom blood pressure. His report was less than a page long.",
+      "why": "The 120 over 80 you get at a clinic still comes from his method.",
+      "box": "pressure",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1914,
+      "date": "1914–1915",
+      "era": "share",
+      "art": "flask",
+      "title": "Blood that can wait",
+      "who": "Albert Hustin, Luis Agote and Richard Lewisohn",
+      "where": "Brussels, Buenos Aires and New York",
+      "country": "Belgium / Argentina / USA",
+      "text": "Working separately, three doctors added sodium citrate to donated blood so it would not clot. Hustin gave the first such transfusion in Brussels in March 1914, Agote in Buenos Aires that November, and Lewisohn worked out a safe dose in New York in 1915.",
+      "why": "Donor and patient no longer had to lie side by side: blood could be stored.",
+      "box": "blood",
+      "sources": [
+        26,
+        27
+      ]
+    },
+    {
+      "year": 1927,
+      "date": "28 June 1927",
+      "era": "inside",
+      "art": "xray",
+      "title": "X-ray pictures of vessels in a living brain",
+      "who": "Egas Moniz and Almeida Lima",
+      "where": "Lisbon, Portugal",
+      "country": "Portugal",
+      "text": "After several failed attempts, Moniz injected a dye that shows up on X-rays into the carotid artery of a patient and took pictures of the brain's vessels. Leg arteries had been imaged a few years earlier, but this was the first cerebral angiogram.",
+      "why": "Angiography let doctors see blocked or burst vessels without surgery.",
+      "box": "health",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1929,
+      "date": "1929",
+      "era": "inside",
+      "art": "xray",
+      "title": "A tube into his own heart",
+      "who": "Werner Forssmann",
+      "where": "Eberswalde, Germany",
+      "country": "Germany",
+      "text": "Forssmann, a junior doctor, slid a thin tube into a vein in his own arm and pushed it up into his heart, then walked to the X-ray room to photograph it. His bosses thought it a stunt. In 1956 he shared a Nobel Prize for it.",
+      "why": "It began cardiac catheterisation, now used to find and open blocked arteries.",
+      "box": "health",
+      "sources": [
+        29,
+        30
+      ]
+    },
+    {
+      "year": 1937,
+      "date": "15 March 1937",
+      "era": "share",
+      "art": "building",
+      "title": "The first hospital blood bank in the USA",
+      "who": "Bernard Fantus",
+      "where": "Cook County Hospital, Chicago, USA",
+      "country": "USA",
+      "text": "Fantus opened a store of donated, citrated blood that could be \"deposited\" and \"withdrawn\", and coined the name blood bank. Earlier blood services had run in Moscow and Barcelona. In its first year it supplied over 1,300 transfusions.",
+      "why": "Hospitals everywhere copied the idea.",
+      "box": "blood",
+      "sources": [
+        31,
+        32
+      ]
+    },
+    {
+      "year": 1938,
+      "date": "1938 (prize presented in 1939)",
+      "era": "inside",
+      "art": "trophy",
+      "title": "Sensors that watch blood pressure",
+      "who": "Corneille Heymans",
+      "where": "Ghent, Belgium",
+      "country": "Belgium",
+      "text": "Heymans, building on Heinrich Hering's work, showed with dogs that sensors in the carotid artery and aorta detect blood pressure and blood chemistry and adjust breathing and circulation through reflexes. His Nobel Prize citation names breathing.",
+      "why": "These baroreceptors are why you do not faint every time you stand up.",
+      "box": "pressure",
+      "sources": [
+        33,
+        34
+      ]
+    },
+    {
+      "year": 1940,
+      "date": "1939–1941",
+      "era": "share",
+      "art": "waterdrop",
+      "title": "Blood for a country at war",
+      "who": "Janet Vaughan and Charles Drew",
+      "where": "London, England and New York, USA",
+      "country": "United Kingdom / USA",
+      "text": "In London, the haematologist Janet Vaughan planned depots that stored donated blood for air-raid victims. In New York, the surgeon Charles Drew ran the Blood for Britain project, which shipped over 5,000 litres of plasma, and then led the first American Red Cross blood bank.",
+      "why": "Their work turned blood donation into a national service.",
+      "box": "blood",
+      "sources": [
+        36,
+        35,
+        37
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "1942",
+      "era": "share",
+      "art": "building",
+      "key": true,
+      "title": "India's first blood bank",
+      "who": "All India Institute of Hygiene and Public Health",
+      "where": "Kolkata (Calcutta), India",
+      "country": "India",
+      "text": "India's first blood bank opened in Kolkata in 1942, at first to meet wartime needs and run with the Red Cross. In 1945 it moved to Calcutta Medical College as the country's first civilian blood bank.",
+      "why": "It was the start of India's blood transfusion services.",
+      "box": "blood",
+      "sources": [
+        38
+      ]
+    },
+    {
+      "year": 1953,
+      "date": "1953",
+      "era": "inside",
+      "art": "vessels",
+      "title": "A needle, a wire and a tube",
+      "who": "Sven-Ivar Seldinger",
+      "where": "Karolinska Institute, Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "Seldinger put a needle into an artery, slid a thin wire through it, took the needle out and slipped a flexible tube over the wire. His short paper made reaching any big vessel safe and simple.",
+      "why": "Almost every angiogram, stent and heart catheter still starts this way.",
+      "box": "health",
+      "sources": [
+        39,
+        40
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "1964",
+      "era": "inside",
+      "art": "chain",
+      "key": true,
+      "title": "Clotting is a cascade",
+      "who": "R. G. Macfarlane; Earl Davie and Oscar Ratnoff",
+      "where": "Oxford, England and Cleveland, USA",
+      "country": "United Kingdom / USA",
+      "text": "Within weeks of each other, two teams proposed that clotting proteins work in a chain: each switched-on factor switches on many copies of the next, like a waterfall that grows as it falls. The chain ends with thrombin turning fibrinogen into fibrin.",
+      "why": "It explained how a tiny wound makes a big clot fast, and what goes wrong in haemophilia.",
+      "box": "blood",
+      "sources": [
+        41,
+        42
+      ]
+    },
+    {
+      "year": 1975,
+      "date": "1 October 1975",
+      "era": "india",
+      "art": "waterdrop",
+      "title": "India's Voluntary Blood Donation Day",
+      "who": "Indian Society of Blood Transfusion and Immunohaematology",
+      "where": "India",
+      "country": "India",
+      "text": "India first marked National Voluntary Blood Donation Day on 1 October 1975, the birthday of the society's founder, Dr J. G. Jolly. It is still held every year to encourage unpaid donors.",
+      "why": "Voluntary, unpaid donors give the safest blood.",
+      "box": "health",
+      "sources": [
+        43
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "4 January 1996",
+      "era": "india",
+      "art": "scales",
+      "key": true,
+      "title": "No more paid blood",
+      "who": "Supreme Court of India",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "In the case Common Cause v. Union of India, the Supreme Court ordered an end to professional (paid) blood donation, licensing of blood banks, and a National Blood Transfusion Council. The ban on paid donors took effect on 1 January 1998, and a National Blood Policy followed in 2002.",
+      "why": "It pushed India towards safer, voluntary donation.",
+      "box": "health",
+      "sources": [
+        44,
+        45
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "7 April 2016",
+      "era": "india",
+      "art": "phone",
+      "title": "Find blood online: e-RaktKosh",
+      "who": "Ministry of Health and Family Welfare",
+      "where": "New Delhi, India",
+      "country": "India",
+      "text": "India launched e-RaktKosh on World Health Day, an online system that links blood centres so people can see where blood of each group is available. By 2024 India was collecting about 1.46 crore (14.6 million) units a year.",
+      "why": "It helps blood reach patients faster and wastes less.",
+      "box": "health",
+      "sources": [
+        46,
+        47
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "19 September 2023",
+      "era": "india",
+      "art": "earth",
+      "key": true,
+      "title": "The silent epidemic, counted",
+      "who": "World Health Organization",
+      "where": "Geneva, Switzerland",
+      "country": "Switzerland",
+      "text": "The WHO's first report on high blood pressure found it affects about 1 in 3 adults, double the number of 1990, and that nearly half do not know. In India, the NFHS-5 survey (2019–21) had found raised blood pressure in about 1 in 4 adults.",
+      "why": "Measuring blood pressure is cheap, and treating it prevents many heart attacks and strokes.",
+      "box": "health",
+      "sources": [
+        48,
+        50,
+        51
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Correct description of the lung loop",
+      "value": "c. 1242",
+      "who": "Ibn al-Nafis, Egypt"
+    },
+    {
+      "label": "Circulation of the blood proved",
+      "value": "1628",
+      "who": "William Harvey, England"
+    },
+    {
+      "label": "Capillaries seen",
+      "value": "1661",
+      "who": "Marcello Malpighi, Italy"
+    },
+    {
+      "label": "Blood pressure measured",
+      "value": "c. 1710, published 1733",
+      "who": "Stephen Hales, England"
+    },
+    {
+      "label": "Human-to-human transfusion",
+      "value": "1818",
+      "who": "James Blundell, England"
+    },
+    {
+      "label": "ABO blood groups",
+      "value": "1901",
+      "who": "Karl Landsteiner, Austria"
+    },
+    {
+      "label": "Blood bank in India",
+      "value": "1942",
+      "who": "Kolkata"
+    }
+  ],
+  "people": [
+    {
+      "name": "Ibn al-Nafis",
+      "life": "1213 – 1288",
+      "role": "Physician",
+      "from": "Damascus, worked in Cairo",
+      "note": "Described blood passing through the lungs about 400 years before Europe accepted it."
+    },
+    {
+      "name": "William Harvey",
+      "life": "1578 – 1657",
+      "role": "Physician",
+      "from": "England",
+      "note": "Proved with experiments and arithmetic that blood circulates."
+    },
+    {
+      "name": "Marcello Malpighi",
+      "life": "1628 – 1694",
+      "role": "Anatomist",
+      "from": "Italy",
+      "note": "Saw the capillaries that join arteries to veins."
+    },
+    {
+      "name": "Ernest Starling",
+      "life": "1866 – 1927",
+      "role": "Physiologist",
+      "from": "England",
+      "note": "Explained the push and pull of fluid at the capillaries."
+    },
+    {
+      "name": "Karl Landsteiner",
+      "life": "1868 – 1943",
+      "role": "Pathologist",
+      "from": "Austria",
+      "note": "Discovered blood groups, making transfusion safe."
+    },
+    {
+      "name": "Janet Vaughan",
+      "life": "1899 – 1993",
+      "role": "Haematologist",
+      "from": "England",
+      "note": "Set up blood depots for London before the Second World War."
+    },
+    {
+      "name": "Charles Drew",
+      "life": "1904 – 1950",
+      "role": "Surgeon",
+      "from": "USA",
+      "note": "Turned plasma storage into mass production and led the first Red Cross blood bank."
+    }
+  ],
+  "series": [
+    {
+      "id": "hypertension",
+      "title": "Adults aged 30–79 with high blood pressure, worldwide",
+      "unit": "million people",
+      "log": false,
+      "after": "india",
+      "caption": "NCD-RisC (Lancet, 2021): the number doubled in 30 years, mostly because there are more and older people; the share of adults stayed at about a third.",
+      "points": [
+        {
+          "year": 1990,
+          "value": 648,
+          "label": "1990: about 648 million (NCD-RisC 2021)"
+        },
+        {
+          "year": 2019,
+          "value": 1278,
+          "label": "2019: about 1.28 billion (NCD-RisC 2021)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "At rest, a drop of blood takes about a minute to go all the way round your body, and spends most of that time in the veins.",
+    "Your capillaries together are about 1,000 times wider than your aorta, so blood slows from about 33 cm a second to about 0.3 mm a second.",
+    "The famous claim of 100,000 km of blood vessels comes from a rough 1922 estimate; newer estimates for the capillaries are about 9,000 to 19,000 km.",
+    "Your bone marrow makes about 2 to 3 million red blood cells every second.",
+    "Stephen Hales's horse pushed its blood about 2.5 metres up a glass tube."
+  ],
+  "sources": [
+    {
+      "title": "Galen",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Galen"
+    },
+    {
+      "title": "Ibn al-Nafis, the pulmonary circulation, and the Islamic Golden Age (J. B. West, 2008)",
+      "publisher": "Journal of Applied Physiology",
+      "url": "https://journals.physiology.org/doi/full/10.1152/japplphysiol.91171.2008"
+    },
+    {
+      "title": "Commentary on Anatomy in Avicenna's Canon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Commentary_on_Anatomy_in_Avicenna%27s_Canon"
+    },
+    {
+      "title": "Michael Servetus",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Michael-Servetus"
+    },
+    {
+      "title": "William Harvey: key discoveries and influences",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/William-Harvey/Key-discoveries-and-influences"
+    },
+    {
+      "title": "De Motu Cordis (1628)",
+      "publisher": "Gonville & Caius College, Cambridge",
+      "url": "https://www.cai.cam.ac.uk/discover/library/online-exhibitions/out-cradle-print/de-motu-cordis-1628"
+    },
+    {
+      "title": "Scholars and scientists in the history of the lymphatic system (Natale et al., 2017)",
+      "publisher": "Journal of Anatomy",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/joa.12644"
+    },
+    {
+      "title": "Rudbeck's complaint: a 350th anniversary retrospective (Ambrose, 2007)",
+      "publisher": "Scandinavian Journal of Immunology",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-3083.2007.01969.x"
+    },
+    {
+      "title": "Marcello Malpighi and the discovery of the pulmonary capillaries and alveoli",
+      "publisher": "American Journal of Physiology: Lung",
+      "url": "https://journals.physiology.org/doi/full/10.1152/ajplung.00016.2013"
+    },
+    {
+      "title": "1674: Perhaps will to many seem incredible",
+      "publisher": "Lens on Leeuwenhoek",
+      "url": "https://lensonleeuwenhoek.net/content/1674-perhaps-will-many-seem-incredible"
+    },
+    {
+      "title": "Round, red globules floating in a crystalline fluid (Micron, 2022)",
+      "publisher": "PubMed (NLM)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35364426/"
+    },
+    {
+      "title": "Stephen Hales: the priest who pioneered clinical physiology",
+      "publisher": "Hektoen International",
+      "url": "https://hekint.org/2017/01/29/stephen-hales-the-priest-who-pioneered-clinical-physiology/"
+    },
+    {
+      "title": "Stephen Hales and the measurement of blood pressure",
+      "publisher": "PubMed (NLM)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7884783/"
+    },
+    {
+      "title": "William Hewson (1739–74): the father of haematology",
+      "publisher": "British Journal of Haematology (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16643443/"
+    },
+    {
+      "title": "William Hewson",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/William-Hewson"
+    },
+    {
+      "title": "James Blundell: the first transfusion of human blood",
+      "publisher": "Resuscitation",
+      "url": "https://www.resuscitationjournal.com/article/S0300-9572(02)00013-8/abstract"
+    },
+    {
+      "title": "Human blood transfusion, 1818–1825",
+      "publisher": "Historia Medica",
+      "url": "https://historiamedica.org/timeline/first-successful-blood-transfusion/"
+    },
+    {
+      "title": "Jean-Louis-Marie Poiseuille",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Jean-Louis-Marie-Poiseuille"
+    },
+    {
+      "title": "Hagen–Poiseuille equation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation"
+    },
+    {
+      "title": "Giulio Bizzozero and the discovery of platelets",
+      "publisher": "Leukemia Research (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17383722"
+    },
+    {
+      "title": "Max Schultze (1865), G. Bizzozero (1882) and the discovery of the platelet",
+      "publisher": "British Journal of Haematology",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2141.2006.06036.x"
+    },
+    {
+      "title": "On the absorption of fluids from the connective tissue spaces (Starling, 1896)",
+      "publisher": "The Journal of Physiology (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1512609/"
+    },
+    {
+      "title": "From concept to cure: the life and legacy of Scipione Riva-Rocci",
+      "publisher": "PMC (NLM)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11520479/"
+    },
+    {
+      "title": "The Nobel Prize in Physiology or Medicine 1930",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1930/summary/"
+    },
+    {
+      "title": "Karl Landsteiner (1868–1943): a versatile blood scientist",
+      "publisher": "PMC (NLM)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11458791/"
+    },
+    {
+      "title": "90th anniversary of the development by Nikolai S. Korotkoff of the auscultatory method of measuring blood pressure",
+      "publisher": "Circulation (American Heart Association)",
+      "url": "https://www.ahajournals.org/doi/10.1161/01.CIR.94.2.116"
+    },
+    {
+      "title": "The introduction of citrate as an anticoagulant for transfusion",
+      "publisher": "British Journal of Haematology",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1046/j.1365-2141.2000.01827.x"
+    },
+    {
+      "title": "Albert Hustin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Albert_Hustin"
+    },
+    {
+      "title": "Egas Moniz: 90 years (1927–2017) from cerebral angiography",
+      "publisher": "Frontiers in Neuroanatomy (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5610728/"
+    },
+    {
+      "title": "History of heart catheterization",
+      "publisher": "Siemens Healthineers MedMuseum",
+      "url": "https://www.medmuseum.siemens-healthineers.com/en/stories-from-the-museum/cardiac-catheterization"
+    },
+    {
+      "title": "Werner Forssmann: Nobel Prize in Physiology or Medicine 1956",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1956/forssmann/facts/"
+    },
+    {
+      "title": "The blood bank",
+      "publisher": "Cook County Health",
+      "url": "https://cookcountyhealth.org/patient-and-visitors/the-blood-bank/"
+    },
+    {
+      "title": "The first-ever blood bank opened 80 years ago today",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/first-ever-blood-bank-opened-80-years-ago-today-180962486/"
+    },
+    {
+      "title": "Corneille Heymans: facts",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1938/heymans/facts/"
+    },
+    {
+      "title": "Corneille Heymans",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Corneille-Heymans"
+    },
+    {
+      "title": "The Charles R. Drew papers: biographical overview",
+      "publisher": "NLM Profiles in Science",
+      "url": "https://profiles.nlm.nih.gov/spotlight/bg/feature/biographical"
+    },
+    {
+      "title": "Dame Janet Maria Vaughan",
+      "publisher": "Royal College of Physicians",
+      "url": "https://history.rcp.ac.uk/inspiring-physicians/dame-janet-maria-vaughan"
+    },
+    {
+      "title": "Medical innovations: blood banking",
+      "publisher": "The National WWII Museum",
+      "url": "https://www.nationalww2museum.org/war/articles/medical-innovations-blood-banking"
+    },
+    {
+      "title": "Blood transfusion services in India (Marwaha, 2014)",
+      "publisher": "Asian Journal of Transfusion Science (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4049180/"
+    },
+    {
+      "title": "Catheter replacement of the needle in percutaneous arteriography (Seldinger, 1953)",
+      "publisher": "PubMed (NLM)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/13057644/"
+    },
+    {
+      "title": "Sven-Ivar Seldinger: a biography",
+      "publisher": "PMC (NLM)",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11179113/"
+    },
+    {
+      "title": "An enzyme cascade in the blood clotting mechanism (Macfarlane, 1964)",
+      "publisher": "Nature",
+      "url": "https://www.nature.com/articles/202498a0"
+    },
+    {
+      "title": "Waterfall sequence for intrinsic blood clotting (Davie & Ratnoff, 1964)",
+      "publisher": "Science (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/14173416/"
+    },
+    {
+      "title": "National Voluntary Blood Donation Day",
+      "publisher": "Assam State Blood Transfusion Council",
+      "url": "https://asbtc.assam.gov.in/information-services/national-blood-donor-day"
+    },
+    {
+      "title": "Common Cause vs Union of India, 4 January 1996",
+      "publisher": "Indian Kanoon",
+      "url": "https://indiankanoon.org/doc/1449517/"
+    },
+    {
+      "title": "Blood transfusion services in India: regulatory review",
+      "publisher": "PMC (NLM)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8628249/"
+    },
+    {
+      "title": "About e-RaktKosh",
+      "publisher": "Ministry of Health and Family Welfare, India",
+      "url": "https://eraktkosh.mohfw.gov.in/BLDAHIMS/bloodbank/about.cnt"
+    },
+    {
+      "title": "Safe blood, strong nation (Khobragade et al., 2026)",
+      "publisher": "Asian Journal of Transfusion Science (PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13290265/"
+    },
+    {
+      "title": "First WHO report details devastating impact of hypertension and ways to stop it",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/news/item/19-09-2023-first-who-report-details-devastating-impact-of-hypertension-and-ways-to-stop-it"
+    },
+    {
+      "title": "Worldwide trends in hypertension prevalence and progress in treatment and control, 1990–2019 (NCD-RisC, Lancet 2021)",
+      "publisher": "PubMed (NLM)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34450083/"
+    },
+    {
+      "title": "National Family Health Survey (NFHS-5) 2019–21: India fact sheet",
+      "publisher": "Ministry of Health and Family Welfare / DHS Program",
+      "url": "https://dhsprogram.com/pubs/pdf/OF43/India_National_Fact_Sheet.pdf"
+    },
+    {
+      "title": "Hypertension India 2023 country profile",
+      "publisher": "World Health Organization",
+      "url": "https://www.who.int/publications/m/item/hypertension-ind-2023-country-profile"
+    },
+    {
+      "title": "August Krogh: muscle capillary function and oxygen delivery (Poole et al., 2021)",
+      "publisher": "Comparative Biochemistry and Physiology A",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1095643320302051"
+    }
+  ]
+}

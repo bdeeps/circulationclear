@@ -1,0 +1,104 @@
+{
+  "slug": "circulationclear",
+  "box": 41,
+  "date": "2026-09-29",
+  "title": "CirculationClear",
+  "question": "How does the circulatory system work?",
+  "hook": "Five litres of blood go round your body about once a minute, through a network that reaches almost every cell. Follow one red blood cell to the lungs and back, squeeze an arteriole and watch the flow collapse, see what leaks out of a capillary, and plug a cut.",
+  "thumbText": "HOW YOUR BLOOD GETS AROUND",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "circulatory system",
+    "blood vessels",
+    "blood pressure",
+    "capillaries",
+    "blood",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A network in every part of you",
+      "text": "Arteries carry blood away from the heart, veins bring it back, and about 10 billion capillaries join them in every organ. The portal vein sends gut blood to the liver first, and faint lymph vessels return fluid that leaks out."
+    },
+    {
+      "title": "Two loops, one lap a minute",
+      "text": "Right heart to the lungs and back, then left heart to the body and back: a double circulation. About 5 L of blood pumped at about 5 L a minute means a lap takes about a minute, 98% full of oxygen out and about 75% back. In a sprint the heart pumps four or five times more, and most of it floods the muscles."
+    },
+    {
+      "title": "From 120 over 80 to almost nothing",
+      "text": "Pressure falls from about 120/80 in the aorta to about 35 then 15 mmHg across the capillaries. The biggest drop is in the muscular arterioles, and by Poiseuille's law halving their radius cuts flow sixteen-fold. Baroreceptors and the kidneys keep the pressure steady."
+    },
+    {
+      "title": "Swap at the capillaries",
+      "text": "Oxygen and glucose diffuse out, carbon dioxide diffuses in. Blood pressure pushes fluid out, plasma proteins pull it back, and the lymph takes the extra. Veins have one-way valves, and the calf muscle pump drops ankle vein pressure from about 90 to about 20 mmHg when you walk."
+    },
+    {
+      "title": "What blood is",
+      "text": "About 55% plasma and 40–45% red cells, with white cells and platelets in a thin layer. A cut makes the vessel narrow, platelets plug it, and a cascade of clotting proteins ends in fibrin threads that make a firm clot."
+    },
+    {
+      "title": "Keeping it healthy",
+      "text": "High blood pressure affects about 1 in 4 adults in India and usually has no symptoms. Plaque narrows arteries; a clot on it causes a heart attack or stroke (call 112 or 108). Varicose veins, anaemia and giving blood too. For your own health, see a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Double circulation",
+      "def": "Blood passes through the heart twice per lap: once for the lungs, once for the body."
+    },
+    {
+      "term": "Artery and vein",
+      "def": "Arteries carry blood away from the heart; veins carry it back. Direction, not colour, decides."
+    },
+    {
+      "term": "Capillary",
+      "def": "The tiniest vessel, about one red cell wide, where oxygen, food and waste are swapped."
+    },
+    {
+      "term": "Arteriole",
+      "def": "The smallest artery, with a muscle ring that acts like a tap on the blood supply."
+    },
+    {
+      "term": "Poiseuille's law",
+      "def": "Flow through a narrow tube depends on its radius to the fourth power."
+    },
+    {
+      "term": "Starling forces",
+      "def": "Blood pressure pushing fluid out of capillaries and plasma proteins pulling it back in."
+    },
+    {
+      "term": "Baroreceptor",
+      "def": "A stretch sensor in the neck and aorta that helps the brain keep blood pressure steady."
+    },
+    {
+      "term": "Haematocrit",
+      "def": "The share of blood made of red cells, about 40–45%."
+    },
+    {
+      "term": "Clotting cascade",
+      "def": "A chain of blood proteins, each switching on many of the next, that ends in fibrin threads."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "circulationclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

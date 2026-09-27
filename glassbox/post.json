@@ -1,0 +1,126 @@
+{
+  "slug": "circulationclear",
+  "box": 41,
+  "question": "How does the circulatory system work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/circulationclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/circulationclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From Galen's one-way blood to blood banks, cuffs and clot science: 1,800 years of finding the loop.\n\n1242: Blood goes through the lungs\n1628: Blood goes round and round\n1661: The missing link: capillaries\n1733: Blood pressure, measured on a horse\n1840: Narrow tubes and the fourth power\n1896: The push and pull at the capillaries\n\nThe full story, with 29 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/circulationclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/circulationclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #circulatorysystem #bloodvessels #bloodpressure #capillaries #blood #humanbody #history",
+      "youtube": {
+        "title": "The history of the circulation in 45 seconds #shorts",
+        "description": "From Galen's one-way blood to blood banks, cuffs and clot science: 1,800 years of finding the loop.\n\n1242 · Blood goes through the lungs (Ibn al-Nafis)\n1628 · Blood goes round and round (William Harvey)\n1661 · The missing link: capillaries (Marcello Malpighi)\n1733 · Blood pressure, measured on a horse (Stephen Hales)\n1840 · Narrow tubes and the fourth power (Jean Léonard Marie Poiseuille)\n1896 · The push and pull at the capillaries (Ernest Starling)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/circulationclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/circulationclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does the circulatory system work?\n\nFive litres of blood go round your body about once a minute, through a network that reaches almost every cell. Follow one red blood cell to the lungs and back, squeeze an arteriole and watch the flow collapse, see what leaks out of a capillary, and plug a cut.\n\n→ Your blood runs through a network that reaches almost every cell you have.\n→ Arteries carry blood away from the heart, veins bring it back, and capillaries join them.\n→ Blood makes two loops: right heart to the lungs, then left heart out to the body.\n→ Run, and the heart pumps four times more, and most of it floods your muscles.\n→ From 120 over 80 in the aorta, pressure falls to almost nothing by the time blood gets home.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/circulationclear (link in bio)\n\nBox No. 041 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #circulatorysystem #bloodvessels #bloodpressure #capillaries #blood #humanbody #biology #threejs",
+    "carousel": "Swipe through: How does the circulatory system work?\n\nFive litres of blood go round your body about once a minute, through a network that reaches almost every cell. Follow one red blood cell to the lungs and back, squeeze an arteriole and watch the flow collapse, see what leaks out of a capillary, and plug a cut.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/circulationclear (link in bio).\n\nBox No. 041 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #circulatorysystem #bloodvessels #bloodpressure #capillaries #blood #humanbody",
+    "youtube": {
+      "title": "How does the circulatory system work? #shorts",
+      "description": "Five litres of blood go round your body about once a minute, through a network that reaches almost every cell. Follow one red blood cell to the lungs and back, squeeze an arteriole and watch the flow collapse, see what leaks out of a capillary, and plug a cut.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/circulationclear/\n⌘ Source code (MIT): https://github.com/bdeeps/circulationclear\n\nBox No. 041 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does the circulatory system work? (interactive explainer)",
+      "description": "Five litres of blood go round your body about once a minute, through a network that reaches almost every cell. Follow one red blood cell to the lungs and back, squeeze an arteriole and watch the flow collapse, see what leaks out of a capillary, and plug a cut.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/circulationclear/\n⌘ Source code (MIT): https://github.com/bdeeps/circulationclear\n\nIn this video:\n• A network in every part of you. Arteries carry blood away from the heart, veins bring it back, and about 10 billion capillaries join them in every organ.\n• Two loops, one lap a minute. Right heart to the lungs and back, then left heart to the body and back: a double circulation.\n• From 120 over 80 to almost nothing. Pressure falls from about 120/80 in the aorta to about 35 then 15 mmHg across the capillaries.\n• Swap at the capillaries. Oxygen and glucose diffuse out, carbon dioxide diffuses in.\n• What blood is. About 55% plasma and 40–45% red cells, with white cells and platelets in a thin layer.\n• Keeping it healthy. High blood pressure affects about 1 in 4 adults in India and usually has no symptoms.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does the circulatory system work?\n\nFive litres of blood go round your body about once a minute, through a network that reaches almost every cell.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/circulationclear/",
+    "linkedin": "How does the circulatory system work?\n\nFive litres of blood go round your body about once a minute, through a network that reaches almost every cell. Follow one red blood cell to the lungs and back, squeeze an arteriole and watch the flow collapse, see what leaks out of a capillary, and plug a cut.\n\n1. A network in every part of you\n2. Two loops, one lap a minute\n3. From 120 over 80 to almost nothing\n4. Swap at the capillaries\n5. What blood is\n6. Keeping it healthy\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 041 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/circulationclear/\nCode: https://github.com/bdeeps/circulationclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-27T18:19:51.943Z"
+}
